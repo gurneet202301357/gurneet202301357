@@ -6,6 +6,7 @@
 </head>
 <body>
     <header>
+        // ASSIGNMENT IT ESSENTIALS
         <nav>
             <a href="twixitter.php">Home</a> | 
             <a href="view_reacted_posts.php">View Reacted Posts</a> | 
